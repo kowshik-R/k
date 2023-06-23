@@ -25,14 +25,14 @@ color: white;
 }
 .header img{
     position: absolute;
-    top: 5%;
+    top: 10%;
     margin-left: 550px;
     width: 200px;
    
 }
 .header h1{
     position: absolute;
-    top:35%;
+    top:40%;
     margin-left: 515px;
     color: white;
     font-weight:bolder;font-style: italic;
@@ -41,14 +41,14 @@ color: white;
 .header p{
     position: absolute;
     top: 50%;
-    margin-left: 500px;
+    margin-left: 510px;
     color: white;
     
     
 }
 .check{
     position: absolute;
-    top: 70%;
+    top: 75%;
     display:inline-block;
     margin-left: 400px;
     border-radius:50px ;
@@ -110,5 +110,5 @@ color: white;
     text-align: center;
 }
 .kk img{
-    margin-top:-40px;
+    margin-top:-10px;
 }
